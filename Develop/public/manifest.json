@@ -1,0 +1,52 @@
+{
+    "icons": [
+      {
+        "src": "icons/icon-100x100.png",
+        "sizes": "100x100",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-200x2004.png",
+        "sizes": "200x200",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-150x150.png",
+        "sizes": "150x150",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-120x120.png",
+        "sizes": "120x120",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-120x120.png",
+        "sizes": "120x120",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-72x72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      }
+    ],
+    "name": "Budget-Tracker",
+    "short_name": "Budgets",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "../index.html",
+    "description": "An app that allows you to track your budgets, on or offline.",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff"
+  }
